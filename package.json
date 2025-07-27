@@ -1,0 +1,20 @@
+{
+  "name": "link-shortner",
+  "version": "1.0.0",
+  "description": "shortens link",
+  "license": "MIT",
+  "author": "Priyanshu Kumar",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4",
+    "nanoid": "^5.1.5"
+  }
+}
